@@ -18,3 +18,18 @@
   <li>MAX30102</li>
   <li>LCD 16x2</li>
   </ul>
+  
+<h2>Layout</h2>
+
+<p align="center">
+<img src="Assets/PCB_A.JPG">
+  </p>
+  <p align="center">
+  <b>PCB layout for Pulsox</b>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+<img src="Assets/PCB_B.png" width="725" height="500"></p>
