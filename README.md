@@ -19,6 +19,18 @@
   <li>LCD 16x2</li>
   </ul>
   
+<h2>Schematic</h2>
+
+<p align="center">
+<img src="Assets/Schematic.png">
+</p>
+<p align="center">
+  <b>Circuit schematic</b>
+  </p>
+  
+  <br>
+  <br>
+  
 <h2>Layout</h2>
 
 <p align="center">
