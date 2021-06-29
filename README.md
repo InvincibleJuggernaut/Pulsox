@@ -32,4 +32,7 @@
 <br>
 
 <p align="center">
-<img src="Assets/PCB_B.png" width="725" height="500"></p>
+<img src="Assets/PCB_B.png" length="1200" width="800"></p>
+<p align="center">
+  <b>Real life rendering of PCB</b>
+  </p>
