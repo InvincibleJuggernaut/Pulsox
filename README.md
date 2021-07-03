@@ -10,6 +10,20 @@
   
 <p align="center"><img src="Assets/Test run B.png"></p>
   
+<h2>Installation</h2>
+
+<p>Following are the steps related to usage and installation:</p>
+<ul>
+  <li>Once the circuit has been assembled with the <a href="https://github.com/InvincibleJuggernaut/Pulsox#components">components</a> as shown <a href="https://github.com/InvincibleJuggernaut/Pulsox#schematic">here</a>, connect the microcontroller to the PC using a USB cable.</li>
+  <li>Clone this repository using</li>
+  
+```
+  git clone https://github.com/InvincibleJuggernaut/Pulsox.git
+```
+  <li>Open the file <i>pulsox.ino</i> using your preferred IDE and flash it to the microcontroller</li>
+  <li>To observe the readings in the Blynk app, you first need to setup an account and paste the credentials along with the wireless network credentials inside the code in <i>pulsox.ino</i>. You could follow this <a href="https://www.electronicslovers.com/2018/06/esp8266-in-combination-with-blynk-app.html">tutorial</a></li>.  
+</ul>
+
 <h2>Components</h2>
 
 
