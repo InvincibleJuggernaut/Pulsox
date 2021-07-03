@@ -53,3 +53,7 @@
   <br>
   
 <p><b>Note:</b> <i> Although the final circuit made use of MAX30102 as the pulse oximetry unit, the PCB design has been made using another pulse oximentry unit called as MAX30100 since there were no footprint libraries available for MAX30102. However, both the sensors are built by Maxim Integrated having similar functions and may only differ in physical dimensions.</i></p>
+
+<h2>License</h2>
+
+<a href="LICENSE">GPLv3</a>
